@@ -1,0 +1,9 @@
+{
+  "provider": "google",
+  "model_dir": "text-embedding-005-d768",
+  "n_queries": 300,
+  "dim": 768,
+  "ndcg@10": 0.7537575944434659,
+  "recall@10": 0.8820000000000001,
+  "recall@100": 0.97
+}

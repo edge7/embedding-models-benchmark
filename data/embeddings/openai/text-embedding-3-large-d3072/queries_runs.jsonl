@@ -1,0 +1,5 @@
+{"ts": 1777020037.3477278, "batch_idx": 0, "n_items": 256, "input_tokens": 4915, "latency_s": 3.524, "cum_input_tokens": 4915, "cum_latency_s": 3.52}
+{"ts": 1777020045.956688, "batch_idx": 1, "n_items": 256, "input_tokens": 4942, "latency_s": 8.573, "cum_input_tokens": 9857, "cum_latency_s": 12.1}
+{"ts": 1777020047.4226632, "batch_idx": 2, "n_items": 256, "input_tokens": 5017, "latency_s": 1.398, "cum_input_tokens": 14874, "cum_latency_s": 13.49}
+{"ts": 1777020048.8199143, "batch_idx": 3, "n_items": 256, "input_tokens": 4960, "latency_s": 1.308, "cum_input_tokens": 19834, "cum_latency_s": 14.8}
+{"ts": 1777020049.5542579, "batch_idx": 4, "n_items": 85, "input_tokens": 1721, "latency_s": 0.627, "cum_input_tokens": 21555, "cum_latency_s": 15.43}

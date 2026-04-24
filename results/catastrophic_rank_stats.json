@@ -1,0 +1,86 @@
+{
+  "cohere/embed-v4.0": {
+    "provider": "cohere",
+    "model_dir": "embed-v4.0",
+    "total_queries_with_positives_in_top100": 289,
+    "n_catastrophic": 94,
+    "pct_catastrophic": 0.32525951557093424,
+    "median_rank_of_best_relevant": 4.0,
+    "mean_rank_of_best_relevant": 9.042553191489361,
+    "p90_rank_of_best_relevant": 20.80000000000001,
+    "min_rank_of_best_relevant": 2,
+    "max_rank_of_best_relevant": 99
+  },
+  "google/gemini-embedding-001-d3072": {
+    "provider": "google",
+    "model_dir": "gemini-embedding-001-d3072",
+    "total_queries_with_positives_in_top100": 298,
+    "n_catastrophic": 47,
+    "pct_catastrophic": 0.15771812080536912,
+    "median_rank_of_best_relevant": 3.0,
+    "mean_rank_of_best_relevant": 6.0212765957446805,
+    "p90_rank_of_best_relevant": 9.0,
+    "min_rank_of_best_relevant": 2,
+    "max_rank_of_best_relevant": 76
+  },
+  "google/gemini-embedding-001-d768": {
+    "provider": "google",
+    "model_dir": "gemini-embedding-001-d768",
+    "total_queries_with_positives_in_top100": 298,
+    "n_catastrophic": 48,
+    "pct_catastrophic": 0.1610738255033557,
+    "median_rank_of_best_relevant": 3.0,
+    "mean_rank_of_best_relevant": 5.520833333333333,
+    "p90_rank_of_best_relevant": 9.0,
+    "min_rank_of_best_relevant": 2,
+    "max_rank_of_best_relevant": 76
+  },
+  "google/text-embedding-005-d768": {
+    "provider": "google",
+    "model_dir": "text-embedding-005-d768",
+    "total_queries_with_positives_in_top100": 291,
+    "n_catastrophic": 101,
+    "pct_catastrophic": 0.3470790378006873,
+    "median_rank_of_best_relevant": 4.0,
+    "mean_rank_of_best_relevant": 11.148514851485148,
+    "p90_rank_of_best_relevant": 36.0,
+    "min_rank_of_best_relevant": 2,
+    "max_rank_of_best_relevant": 81
+  },
+  "openai/text-embedding-3-large-d3072": {
+    "provider": "openai",
+    "model_dir": "text-embedding-3-large-d3072",
+    "total_queries_with_positives_in_top100": 293,
+    "n_catastrophic": 93,
+    "pct_catastrophic": 0.3174061433447099,
+    "median_rank_of_best_relevant": 4.0,
+    "mean_rank_of_best_relevant": 10.473118279569892,
+    "p90_rank_of_best_relevant": 27.0,
+    "min_rank_of_best_relevant": 2,
+    "max_rank_of_best_relevant": 79
+  },
+  "qwen/text-embedding-v4": {
+    "provider": "qwen",
+    "model_dir": "text-embedding-v4",
+    "total_queries_with_positives_in_top100": 285,
+    "n_catastrophic": 104,
+    "pct_catastrophic": 0.3649122807017544,
+    "median_rank_of_best_relevant": 5.0,
+    "mean_rank_of_best_relevant": 8.990384615384615,
+    "p90_rank_of_best_relevant": 21.400000000000006,
+    "min_rank_of_best_relevant": 2,
+    "max_rank_of_best_relevant": 72
+  },
+  "qwen/text-embedding-v4-d2048": {
+    "provider": "qwen",
+    "model_dir": "text-embedding-v4-d2048",
+    "total_queries_with_positives_in_top100": 286,
+    "n_catastrophic": 102,
+    "pct_catastrophic": 0.35664335664335667,
+    "median_rank_of_best_relevant": 4.5,
+    "mean_rank_of_best_relevant": 9.764705882352942,
+    "p90_rank_of_best_relevant": 20.600000000000023,
+    "min_rank_of_best_relevant": 2,
+    "max_rank_of_best_relevant": 99
+  }
+}

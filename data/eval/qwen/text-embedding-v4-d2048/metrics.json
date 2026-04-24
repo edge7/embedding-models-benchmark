@@ -1,0 +1,9 @@
+{
+  "provider": "qwen",
+  "model_dir": "text-embedding-v4-d2048",
+  "n_queries": 300,
+  "dim": 2048,
+  "ndcg@10": 0.7279595643297813,
+  "recall@10": 0.8542222222222222,
+  "recall@100": 0.9516666666666667
+}

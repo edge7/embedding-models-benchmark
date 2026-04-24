@@ -1,0 +1,9 @@
+{
+  "provider": "google",
+  "model_dir": "gemini-embedding-001-d768",
+  "n_queries": 300,
+  "dim": 768,
+  "ndcg@10": 0.909330992674559,
+  "recall@10": 0.9816666666666667,
+  "recall@100": 0.9933333333333333
+}

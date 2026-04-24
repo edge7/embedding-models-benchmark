@@ -1,0 +1,5 @@
+{"ts": 1777022704.4086642, "batch_idx": 0, "n_items": 250, "input_tokens": 5596, "latency_s": 3.984, "cum_input_tokens": 5596, "cum_latency_s": 3.98, "input_chars": 18951}
+{"ts": 1777022707.8790684, "batch_idx": 1, "n_items": 250, "input_tokens": 5694, "latency_s": 3.442, "cum_input_tokens": 11290, "cum_latency_s": 7.43, "input_chars": 19125}
+{"ts": 1777022711.4616425, "batch_idx": 2, "n_items": 250, "input_tokens": 5802, "latency_s": 3.546, "cum_input_tokens": 17092, "cum_latency_s": 10.97, "input_chars": 19923}
+{"ts": 1777022715.4104605, "batch_idx": 3, "n_items": 250, "input_tokens": 5735, "latency_s": 3.909, "cum_input_tokens": 22827, "cum_latency_s": 14.88, "input_chars": 19595}
+{"ts": 1777022717.7715116, "batch_idx": 4, "n_items": 109, "input_tokens": 2555, "latency_s": 2.319, "cum_input_tokens": 25382, "cum_latency_s": 17.2, "input_chars": 8553}
