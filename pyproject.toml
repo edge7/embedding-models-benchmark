@@ -12,6 +12,7 @@ dependencies = [
     "tqdm>=4.66.0",
     "numpy>=2.0.0",
     "matplotlib>=3.9.0",
+    "torch>=2.4.0",
 ]
 
 [build-system]
